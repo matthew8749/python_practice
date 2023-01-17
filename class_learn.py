@@ -1,3 +1,5 @@
+#import troch
+
 # 定義類別
 class Car():
     color = ""
